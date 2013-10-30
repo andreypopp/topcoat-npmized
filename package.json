@@ -1,0 +1,13 @@
+{
+  "name": "topcoat-npmized",
+  "version": "0.0.0",
+  "description": "TopCoat stylus components which can be loaded as npm packages",
+  "repository": {
+    "type": "git",
+    "url": "andreypopp/topcoat-npmized"
+  },
+  "license": {
+    "type": "Apache",
+    "url": "https://github.com/topcoat/topcoat/blob/master/LICENSE"
+  }
+}
